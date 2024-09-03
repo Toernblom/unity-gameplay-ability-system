@@ -2,10 +2,7 @@
   "name": "com.toernblom.abilitysystem",
   "displayName": "Gameplay Ability System",
   "version": "0.1.0",
-  "unity": "6",
+  "unity": "2019.1",
   "description": "A unified framework for developing ability-based games",
-  "dependencies": {},
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@toernblom"
-  }
+  "dependencies": {}
 }
